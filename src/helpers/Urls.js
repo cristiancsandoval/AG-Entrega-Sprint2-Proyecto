@@ -1,0 +1,1 @@
+export const endpoint = "https://daily-bits-app.herokuapp.com/usuarios/"
