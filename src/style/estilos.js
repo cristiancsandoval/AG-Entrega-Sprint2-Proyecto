@@ -166,6 +166,7 @@ export const BarraAvanceSelect = styled.div`
     top:0;
     left: 0;
     z-index: 10;
+    transition: all 0.5s ease-in-out;
 `
 
 export const CntrVidas = styled.div`
@@ -185,6 +186,7 @@ export const CntrPregunta = styled.div`
 `
 
 export const TextPreguntas = styled.p`
+    width: 80%;
     text-align: left;
     margin-left: 15px;
     margin-right: 10px;
